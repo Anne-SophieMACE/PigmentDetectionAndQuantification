@@ -1,0 +1,4 @@
+The Plugin MinMaxProj_heightMap-0.1.0-SNAPSHOT should be placed in your folder Plugins; 
+it computes the Max/Min projection as in Image>Stacks>Z-projection but also created a “Height Map” 
+indicatinf for each pixel on which slice its maximum (or minimum depending on the chosen option) was 
+reached
